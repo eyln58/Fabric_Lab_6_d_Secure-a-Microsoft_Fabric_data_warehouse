@@ -1,0 +1,1 @@
+# Fabric_Lab_6_d_Secure-a-Microsoft_Fabric_data_warehouse
